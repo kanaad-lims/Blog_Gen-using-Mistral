@@ -1,0 +1,8 @@
+// Installing the requirements for the project.
+
+flask
+requests
+jsonify
+render_template
+huggingface_hub
+InferenceClient
